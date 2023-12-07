@@ -8,7 +8,7 @@
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
-    "test": "test_sanakyselin"
+    "test": ""
   },
   "repository": {
     "type": "git",
