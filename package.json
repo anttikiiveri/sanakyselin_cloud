@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "@google-cloud/functions-framework": "^3.3.0"
+    "@google-cloud/functions-framework": "^3.3.0",
+    "firebase-admin": "^11.11.1",
+    "firebase-functions": "^4.5.0"
   },
   "name": "sanakyselin_cloud",
   "version": "1.0.0",
   "description": "Sanakyselin auttaa kielten sanojen opiskelussa.",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": ""
   },
@@ -19,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/anttikiiveri/sanakyselin_cloud/issues"
   },
-  "homepage": "https://github.com/anttikiiveri/sanakyselin_cloud#readme"
+  "homepage": "https://github.com/anttikiiveri/sanakyselin_cloud#readme",
+  "keywords": []
 }
