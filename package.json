@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.3.0"
+  },
+  "name": "sanakyselin_cloud",
+  "version": "1.0.0",
+  "description": "Sanakyselin auttaa kielten sanojen opiskelussa.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test_sanakyselin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anttikiiveri/sanakyselin_cloud.git"
+  },
+  "author": "Antti Kiiveri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anttikiiveri/sanakyselin_cloud/issues"
+  },
+  "homepage": "https://github.com/anttikiiveri/sanakyselin_cloud#readme"
+}
